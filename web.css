@@ -1,1 +1,25 @@
 /*To be continued*/
+body, h1,h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family:arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+  }
+
+  header {
+    background-color: #333;
+    padding: 20 px;
+  }
+
+ hl {
+   color: #fff;
+   font-size: 21px;
+   margin-bottom: 10px;
+ }
+
+nav ul {
+  list-style: none;
+}
